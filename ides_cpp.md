@@ -1,0 +1,11 @@
+###IDEs for C++
+* [Eclipse CDT](http://www.eclipse.org/cdt/) 
+* [JetBrains CLion](http://www.jetbrains.com/clion/)
+* [Netbeans IDE C++](https://netbeans.org/features/cpp/)
+* [Visual Studio Express 2013 with update 3 for Windows Desktop](http://www.visualstudio.com/downloads/download-visual-studio-vs#d-express-windows-desktop)
+* [Geany](http://www.geany.org/)
+* [Code::Blocks](http://www.codeblocks.org/)
+* [Codelite](http://codelite.org/)
+* [Orwell DevCpp](http://sourceforge.net/projects/orwelldevcpp/)
+* [Kdevelop Linux only](https://www.kdevelop.org/)
+* [XCode MacOS only](https://developer.apple.com/xcode/)
